@@ -1,5 +1,4 @@
 # Technical-reports
-This repository holds various technical reports produced by Jianyu Niu
 
 [![Creative Commons Licence](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png "Creative Commons License")](http://creativecommons.org/licenses/by-nc-nd/4.0/)
 
